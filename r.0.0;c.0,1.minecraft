@@ -1,0 +1,328 @@
+{
+  "DataVersion": 3445,
+  "Entities": [
+    {
+      "AbsorptionAmount": 0,
+      "Air": 300,
+      "ArmorItems": [
+        {
+          "Count": 1,
+          "id": "minecraft:netherite_boots",
+          "tag": {
+            "Damage": 0,
+            "Trim": {
+              "material": "minecraft:diamond",
+              "pattern": "minecraft:wild"
+            }
+          }
+        },
+        {
+          "Count": 1,
+          "id": "minecraft:netherite_leggings",
+          "tag": {
+            "Damage": 0,
+            "Trim": {
+              "material": "minecraft:redstone",
+              "pattern": "minecraft:vex"
+            }
+          }
+        },
+        {
+          "Count": 1,
+          "id": "minecraft:netherite_chestplate",
+          "tag": {
+            "Damage": 0,
+            "Trim": {
+              "material": "minecraft:diamond",
+              "pattern": "minecraft:sentry"
+            }
+          }
+        },
+        {
+          "Count": 1,
+          "id": "minecraft:player_head",
+          "tag": {
+            "SkullOwner": {
+              "Id": [
+                -226292609,
+                -704034161,
+                -1803381647,
+                -1050451319
+              ],
+              "Name": "slowest____side",
+              "Properties": {
+                "textures": [
+                  {
+                    "Value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTgxMzk2MzY2MywKICAicHJvZmlsZUlkIiA6ICJmMjgzMGM3ZmQ2MDk0YThmOTQ4Mjk0NzFjMTYzNjI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbG93ZXN0X19fX3NpZGUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTExMmEwY2NkNzc2Y2UzNmVmMGFlMDg1MzRmNjBiMWUxYzdkNzI1MzMwZDVkNzMwNjlmMTBjYTc4YWJiY2MzYSIKICAgIH0KICB9Cn0="
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "Attributes": [
+        {
+          "Base": 0,
+          "Name": "minecraft:generic.knockback_resistance"
+        },
+        {
+          "Base": 0,
+          "Name": "minecraft:generic.armor"
+        },
+        {
+          "Base": 0,
+          "Name": "minecraft:generic.armor_toughness"
+        },
+        {
+          "Base": 0.699999988079071,
+          "Name": "minecraft:generic.movement_speed"
+        }
+      ],
+      "Brain": {
+        "memories": {}
+      },
+      "CustomName": "{\"text\":\"Slow\"}",
+      "CustomNameVisible": 1,
+      "DeathTime": 0,
+      "DisabledSlots": 0,
+      "FallDistance": 0,
+      "FallFlying": 0,
+      "Fire": -1,
+      "HandItems": [
+        {
+          "Count": 1,
+          "id": "minecraft:netherite_sword",
+          "tag": {
+            "Damage": 0
+          }
+        },
+        {}
+      ],
+      "Health": 20,
+      "HurtByTimestamp": 0,
+      "HurtTime": 0,
+      "Invisible": 0,
+      "Invulnerable": 0,
+      "Motion": [
+        0,
+        -0.0784000015258789,
+        0
+      ],
+      "NoBasePlate": 0,
+      "OnGround": 1,
+      "PortalCooldown": 0,
+      "Pos": [
+        12.5,
+        67,
+        17.5
+      ],
+      "Pose": {},
+      "Rotation": [
+        90,
+        0
+      ],
+      "ShowArms": 1,
+      "Small": 0,
+      "UUID": [
+        83526889,
+        862209100,
+        -1154373404,
+        -1423554394
+      ],
+      "id": "minecraft:armor_stand"
+    },
+    {
+      "Air": 300,
+      "Facing": 1,
+      "FallDistance": 0,
+      "Fire": -1,
+      "Fixed": 0,
+      "Invisible": 0,
+      "Invulnerable": 0,
+      "Item": {
+        "Count": 1,
+        "id": "minecraft:netherite_shovel",
+        "tag": {
+          "Damage": 0,
+          "display": {
+            "Name": "slowest____side"
+          }
+        }
+      },
+      "ItemDropChance": 1,
+      "ItemRotation": 0,
+      "Motion": [
+        0,
+        0,
+        0
+      ],
+      "OnGround": 0,
+      "PortalCooldown": 0,
+      "Pos": [
+        11.5,
+        67.03125,
+        18.5
+      ],
+      "Rotation": [
+        0,
+        -90
+      ],
+      "TileX": 11,
+      "TileY": 67,
+      "TileZ": 18,
+      "UUID": [
+        427820883,
+        1801276509,
+        -1334042332,
+        -328124406
+      ],
+      "id": "minecraft:item_frame"
+    },
+    {
+      "Air": 300,
+      "Facing": 1,
+      "FallDistance": 0,
+      "Fire": -1,
+      "Fixed": 0,
+      "Invisible": 0,
+      "Invulnerable": 0,
+      "Item": {
+        "Count": 1,
+        "id": "minecraft:netherite_pickaxe",
+        "tag": {
+          "Damage": 0,
+          "display": {
+            "Name": "slowest____side"
+          }
+        }
+      },
+      "ItemDropChance": 1,
+      "ItemRotation": 1,
+      "Motion": [
+        0,
+        0,
+        0
+      ],
+      "OnGround": 0,
+      "PortalCooldown": 0,
+      "Pos": [
+        12.5,
+        67.03125,
+        18.5
+      ],
+      "Rotation": [
+        0,
+        -90
+      ],
+      "TileX": 12,
+      "TileY": 67,
+      "TileZ": 18,
+      "UUID": [
+        -839844177,
+        1107118066,
+        -1522100640,
+        -681228166
+      ],
+      "id": "minecraft:item_frame"
+    },
+    {
+      "Air": 300,
+      "Facing": 1,
+      "FallDistance": 0,
+      "Fire": -1,
+      "Fixed": 0,
+      "Invisible": 0,
+      "Invulnerable": 0,
+      "Item": {
+        "Count": 1,
+        "id": "minecraft:netherite_hoe",
+        "tag": {
+          "Damage": 0,
+          "display": {
+            "Name": "slowest____side"
+          }
+        }
+      },
+      "ItemDropChance": 1,
+      "ItemRotation": 0,
+      "Motion": [
+        0,
+        0,
+        0
+      ],
+      "OnGround": 0,
+      "PortalCooldown": 0,
+      "Pos": [
+        12.5,
+        67.03125,
+        16.5
+      ],
+      "Rotation": [
+        0,
+        -90
+      ],
+      "TileX": 12,
+      "TileY": 67,
+      "TileZ": 16,
+      "UUID": [
+        1250368929,
+        1549486749,
+        -1516022362,
+        2083364449
+      ],
+      "id": "minecraft:item_frame"
+    },
+    {
+      "Air": 300,
+      "Facing": 1,
+      "FallDistance": 0,
+      "Fire": -1,
+      "Fixed": 0,
+      "Invisible": 0,
+      "Invulnerable": 0,
+      "Item": {
+        "Count": 1,
+        "id": "minecraft:netherite_sword",
+        "tag": {
+          "Damage": 0,
+          "display": {
+            "Name": "slowest____side"
+          }
+        }
+      },
+      "ItemDropChance": 1,
+      "ItemRotation": 1,
+      "Motion": [
+        0,
+        0,
+        0
+      ],
+      "OnGround": 0,
+      "PortalCooldown": 0,
+      "Pos": [
+        11.5,
+        67.03125,
+        16.5
+      ],
+      "Rotation": [
+        0,
+        -90
+      ],
+      "TileX": 11,
+      "TileY": 67,
+      "TileZ": 16,
+      "UUID": [
+        2022204377,
+        652757342,
+        -2012590781,
+        -59881649
+      ],
+      "id": "minecraft:item_frame"
+    }
+  ],
+  "Position": [
+    0,
+    1
+  ]
+}
